@@ -1,0 +1,7 @@
+{
+  "confidence_threshold": 0.5,
+  "margin_threshold": 0.15,
+  "entropy_threshold": 1.5,
+  "enable_margin_rule": true,
+  "enable_entropy_rule": true
+}
